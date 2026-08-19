@@ -3,3 +3,4 @@ mcp
 python-dotenv
 requests
 uvicorn
+fastmcp
