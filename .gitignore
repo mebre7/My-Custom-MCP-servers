@@ -1,3 +1,4 @@
+note.md
 # Python-generated files
 __pycache__/
 *.py[oc]
@@ -11,4 +12,4 @@ wheels/
 .venv
 .env
 
-README.md
+#README.md
