@@ -1,6 +1,6 @@
 import contextlib
 from fastapi import FastAPI
-from server import mcp_app
+from weather_server import mcp_app
 import os
 
 
